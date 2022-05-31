@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
 
 body{
-    font-family: 'Prompt', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,6 +11,7 @@ body{
 }
 
 .borda{
+    font-family: 'Prompt', sans-serif;
     background: #ffffff;
     position:absolute;
     left:28%;
